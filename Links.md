@@ -2,6 +2,9 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-09 20:20 (IR Time)
+- 📥 [com.hevy_arm64-v8a_default.zip](https://github.com/Ali-Anv1/sandbox/raw/main/dl/com.hevy_arm64-v8a_default.zip) `84.49 MB`
+
 ### 📅 2026-05-09 20:19 (IR Time)
 - 📥 [com.hevy_arm64-v8a_default.zip.001](https://github.com/Ali-Anv1/sandbox/raw/main/dl/com.hevy_arm64-v8a_default.zip.001) `90.00 MB`
 - 📥 [com.hevy_arm64-v8a_default.zip.002](https://github.com/Ali-Anv1/sandbox/raw/main/dl/com.hevy_arm64-v8a_default.zip.002) `66.43 MB`
